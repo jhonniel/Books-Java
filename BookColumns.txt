@@ -1,0 +1,6 @@
+Book ID
+Borrower
+No. of Copy
+Book Name
+Author
+Year
